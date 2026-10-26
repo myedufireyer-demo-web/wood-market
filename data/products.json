@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "ไม้สัก แปรรูป", "category": "ไม้แปรรูป", "size": "2\" x 4\" x 4 ม.", "unit": "เส้น", "price": 850, "image_url": null, "in_stock": true },
+  { "id": 2, "name": "ไม้ยางพารา อบแห้ง", "category": "ไม้แปรรูป", "size": "1\" x 6\" x 3 ม.", "unit": "แผ่น", "price": 190, "image_url": null, "in_stock": true },
+  { "id": 3, "name": "ไม้อัดยางพารา", "category": "ไม้อัด", "size": "4' x 8' หนา 10 มม.", "unit": "แผ่น", "price": 420, "image_url": null, "in_stock": true },
+  { "id": 4, "name": "ไม้อัดกันน้ำ", "category": "ไม้อัด", "size": "4' x 8' หนา 15 มม.", "unit": "แผ่น", "price": 690, "image_url": null, "in_stock": false },
+  { "id": 5, "name": "ไม้คาน", "category": "ไม้โครงสร้าง", "size": "2\" x 3\" x 4 ม.", "unit": "เส้น", "price": 120, "image_url": null, "in_stock": true },
+  { "id": 6, "name": "ไม้เสา", "category": "ไม้โครงสร้าง", "size": "4\" x 4\" x 3 ม.", "unit": "ต้น", "price": 360, "image_url": null, "in_stock": true }
+]

@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { @apply bg-sawdust text-ink font-body; }
+h1, h2, h3 { @apply font-head; }
